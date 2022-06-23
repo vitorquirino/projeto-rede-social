@@ -16,7 +16,7 @@ main {
     height: 100vh;
     position: relative;
     background-color: blueviolet;
-    background-image: url(../imagens/fundo-madeira.jpg);
+    background-image: url(../imagens/fundo01.png);
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
